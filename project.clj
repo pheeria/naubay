@@ -6,6 +6,7 @@
   :dependencies [
                  [org.clojure/clojure "1.11.1"]
                  [org.clojure/data.json "2.4.0"]
+                 [ring/ring-json "0.5.1"]
                  [compojure "1.7.0"]
                  [mount "0.1.17"]
                  [com.novemberain/monger "3.6.0"]
