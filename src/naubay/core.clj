@@ -5,6 +5,7 @@
     [ring.middleware.json :refer [wrap-json-response wrap-json-body]]
     [ring.util.response :as ring]
     [naubay.config :refer [port]]
+    [naubay.db :refer [get-products]]
     [org.httpkit.server :refer [run-server]])
   (:gen-class))
 
@@ -24,7 +25,7 @@
 
 (defroutes all-routes
   (GET "/" [] (ring/response {:kez "kelgen"}))
-  (GET "/:name" [name] (ring/response {:kez (str "kelgen " name)}))
+  (GET "/products" [] (ring/response (get-products)))
   (route/not-found {:error "not found"}))
 
 (def handlers
@@ -37,11 +38,12 @@
 (defn restart-server []
   (when (some? @server)
     (@server :timeout 100)
-    (reset! server nil)
-    (reset! server (run-server handlers {:port port}))))
+    (reset! server nil)))
 
 (defn -main []
   (println "Serving commenced!")
   (reset! server (run-server handlers {:port port})))
 
-(comment (restart-server))
+(comment (do 
+           (restart-server)
+           (-main)))
