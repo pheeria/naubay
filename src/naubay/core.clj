@@ -24,6 +24,7 @@
 
 (defroutes all-routes
   (GET "/" [] (ring/response {:kez "kelgen"}))
+  (GET "/:name" [name] (ring/response {:kez (str "kelgen " name)}))
   (route/not-found {:error "not found"}))
 
 (def handlers
@@ -33,11 +34,14 @@
       (wrap-json-body {:keywords? true})))
 
 (defonce server (atom nil))
-(defn stop-server []
+(defn restart-server []
   (when (some? @server)
     (@server :timeout 100)
-    (reset! server nil)))
+    (reset! server nil)
+    (reset! server (run-server handlers {:port port}))))
 
 (defn -main []
   (println "Serving commenced!")
   (reset! server (run-server handlers {:port port})))
+
+(comment (restart-server))
