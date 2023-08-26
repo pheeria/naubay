@@ -1,0 +1,86 @@
+[
+    {
+        "category": "Brote",
+        "name": "Baguette Tradition",
+        "price": "2.60",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA046-Baguette-Tradition-Dorfbaeckerei-Ackermann-450x300.jpg"
+    },
+    {
+        "category": "Brote",
+        "name": "Emmerbrot",
+        "price": "5.20",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA034-Emmerbrot-Urgetreide-450x300.jpg"
+    },
+    {
+        "category": "Brote",
+        "name": "Oskar",
+        "price": "11.40",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA003-600x400.jpg"
+    },
+    {
+        "category": "Brote",
+        "name": "Big Bolcher",
+        "price": "11.90",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA003-600x400.jpg"
+    },
+    {
+        "category": "Brote",
+        "name": "Kornbrot 1930",
+        "price": "4.80",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA005-600x400.jpg"
+    },
+    {
+        "category": "Brote",
+        "name": "Bärlauchbrot",
+        "price": "4.10",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/Baerlauchbrot-600x400.jpg"
+    },
+    {
+        "category": "Brote",
+        "name": "Focaccia Amore",
+        "price": "4.35",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA010-600x400.jpg"
+    },
+    {
+        "category": "Brote",
+        "name": "Früchtebrot",
+        "price": "10.80",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/Fruechtebrot-600x400.jpg"
+    },
+    {
+        "category": "Brote",
+        "name": "Kastanienbrot",
+        "price": "4.80",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/Kastanienbrot-600x400.jpg"
+    },
+    {
+        "category": "Brote",
+        "name": "Menger Landbrot",
+        "price": "4.60",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA007-600x400.jpg"
+    },
+    {
+        "category": "Brote",
+        "name": "Dinkelvollkornbrot",
+        "price": "4.10",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/Dinkelvollkornbrot-Brotversand-Dorfbaeckerei-Ackermann-600x400.jpg"
+    },
+    {
+        "category": "Brote",
+        "name": "Roggenvollkornbrot",
+        "price": "5.10",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA006-600x400.jpg"
+    },
+    {
+        "category": "Brote",
+        "name": "Pane Zeus",
+        "price": "4.30",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA012-600x400.jpg"
+    },
+    {
+        "category": "Brote",
+        "name": "Toscanaring",
+        "price": "4.20",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA011-600x400.jpg"
+    }
+]

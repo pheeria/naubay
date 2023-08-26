@@ -1,0 +1,17 @@
+[
+    { "category": "Süßes", "price": "13.80", "name": "6er Muffin Box", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA039-6er-Muffin-Box-Dorfbaeckerei-Ackermann-450x300.jpg" },
+    { "category": "Süßes", "price": "17.20", "name": "Rosinenkranz", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA015-Rosinenkranz-Dorfrosinenkranz-Kranzkuchen-Dorfbaeckerei-Ackermann-900x597.jpg" },
+    { "category": "Süßes", "price": "17.20", "name": "Dorfkranz", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA015-Rosinenkranz-Dorfrosinenkranz-Kranzkuchen-Dorfbaeckerei-Ackermann-900x597.jpg" },
+    { "category": "Süßes", "price": "7.80", "name": "Dinkel-Rübli Kuchen", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA037-Dinkel-Ruebli-Kuchen-Dorfbaeckerei-Ackermann-450x300.jpg" },
+    { "category": "Süßes", "price": "7.60", "name": "Marmorkuchen", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA036-Marmorkuchen-Dorfbaeckerei-Ackermann-450x300.jpg" },
+    { "category": "Süßes", "price": "13.20", "name": "Sofie der Gugelhupf", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA035-Streuselkuchen-Dorfbaeckerei-Ackermann-450x300.jpg" },
+    { "category": "Süßes", "price": "13.80", "name": "Streuselkuchen", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA035-Streuselkuchen-Dorfbaeckerei-Ackermann-450x300.jpg" },
+    { "category": "Süßes", "price": "21.90", "name": "Nusskranz", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA038-Nusskranz-Kranzkuchen-Dorfbaeckerei-Ackermann-450x300.jpg" },
+    { "category": "Süßes", "price": "9.20", "name": "Apfel-Streusel Muffins (4 Stück)", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA040-Apfel-Streusel-Muffins-Dorfbaeckerei-Ackermann-450x300.jpg" },
+    { "category": "Süßes", "price": "9.20", "name": "Blaubeer Muffins (4 Stück)", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA045-Blaubeer-Muffins-Dorfbaeckerei-Ackermann-450x300.jpg" },
+    { "category": "Süßes", "price": "9.20", "name": "Double-Chocolate Muffins (4 Stück)", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA042-Double-Chocolate-Muffins-Dorfbaeckerei-Ackermann-450x300.jpg" },
+    { "category": "Süßes", "price": "9.20", "name": "Marmor Muffins Schoko-Vanille (4 Stück)", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA044-Marmor-Muffins-Schoko-Vanille-Dorfbaeckerei-Ackermann-450x300.jpg" },
+    { "category": "Süßes", "price": "9.20", "name": "Schoko-Kirsche Muffins (4 Stück)", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA041-Schoko-Kirsche-Muffins-Dorfbaeckerei-Ackermann-450x300.jpg" },
+    { "category": "Süßes", "price": "9.20", "name": "Vanille-Straciatella Muffins (4 Stück)", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA043-Vanille-Straciatella-Muffins-Dorfbaeckerei-Ackermann-450x300.jpg" }
+]
+

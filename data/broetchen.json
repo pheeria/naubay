@@ -1,0 +1,10 @@
+[
+    { "category": "Brötchen", "price": "4.50", "name": "Ackermänner", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA001-600x400.jpg" },
+    { "category": "Brötchen", "price": "5.30", "name": "Burgerbrötchen", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/Burgerbroetchen-600x400.jpg" },
+    { "category": "Brötchen", "price": "5.30", "name": "HotDog-Brötchen", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/HotDogs-600x400.jpg" },
+    { "category": "Brötchen", "price": "6.80", "name": "Mini Burger Brötchen (8er Pack)", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/Mini-Brioche-Burger-Buns-kaufen-Dorfbaeckerei-Ackermann-450x300.jpg" },
+    { "category": "Brötchen", "price": "4.95", "name": "Mehrkornbrötchen", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA002-600x400.jpg" },
+    { "category": "Brötchen", "price": "5.25", "name": "Kürbisbrötchen", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA054-Kuerbisweck-Kuerbiskernbroetchen-Dorfbaeckerei-Ackermann-450x300.jpg" },
+    { "category": "Brötchen", "price": "5.40", "name": "Dinkelbrötchen", "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/DBA055-Dinkelbroetchen-Dinkelsprossen-Broetchen-Dorfbaeckerei-Ackermann-450x300.jpg" }
+]
+

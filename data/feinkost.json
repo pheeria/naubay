@@ -1,0 +1,14 @@
+[
+    {
+        "category": "Feinkost",
+        "price": "2.70",
+        "name": "Brotchips Chipslover",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/Brotchips-Chipslover-Brotretter-Dorfbaeckerei-Ackermann-450x300.jpg"
+    },
+    {
+        "category": "Feinkost",
+        "price": "2.70",
+        "name": "Brotchips Kräuterliebe",
+        "image": "https://www.dorfbaeckerei-ackermann.de/wp-content/uploads/Brotchips-Kraeuterliebe-Brotretter-Dorfbaeckerei-Ackermann-450x300.jpg"
+    }
+]
