@@ -1,10 +1,9 @@
 (ns naubay.db
   (:require [monger.core :as mg]
             [monger.collection :as mc]
-            [naubay.config :refer [uri]])
-  (:import com.mongodb.DB))
+            [naubay.config :refer [uri]]))
 
-(defonce ^DB database
+(defonce database
   (let [{:keys [conn db]} (mg/connect-via-uri uri)]
     db))
 
