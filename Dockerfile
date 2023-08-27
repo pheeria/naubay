@@ -8,5 +8,5 @@ RUN lein uberjar
 FROM openjdk:11-jre-slim-buster
 WORKDIR /usr/app
 
-COPY --from=build-jar /usr/src/target/uberjar/naubay-0.1.0-SNAPSHOT-standalone.jar .
+COPY --from=build-jar /usr/src/target/uberjar/naubay-0.1.0-SNAPSHOT-standalone.jar /usr/app
 CMD ["java", "-jar", "naubay-0.1.0-SNAPSHOT-standalone.jar"]
