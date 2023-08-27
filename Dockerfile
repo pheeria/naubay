@@ -1,6 +1,7 @@
 FROM clojure:openjdk-11-lein-slim-buster AS build-jar
 WORKDIR /usr/src
-COPY . .
+COPY project.clj /usr/src
+COPY src /usr/src
 
 RUN lein uberjar
 
